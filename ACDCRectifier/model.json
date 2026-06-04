@@ -1,0 +1,7 @@
+{
+    "name": "ACDCRectifier"
+    "description": "AC - DC rectifier"
+    "parameters": ["Vm","freq", "dt"]
+    "inputs": []
+    "outputs": ["Vac","Vdc"]
+}
